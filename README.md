@@ -1,1 +1,1 @@
-# Multimodal-Model
+# multimodal model
